@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/TrymoretimeH/nodejs_blog",
   "name": "blog",
   "version": "1.0.0",
   "description": "",
@@ -24,7 +25,6 @@
   "bugs": {
     "url": "https://github.com/TrymoretimeH/nodejs_blog/issues"
   },
-  "homepage": "https://github.com/TrymoretimeH/nodejs_blog",
   "lint-staged": {
     "src/**/*.{js,json,scss}": "prettier --single-quote --trailing-comma all --tab-width 4 --write"
   },
