@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/TrymoretimeH/nodejs_blog/issues"
   },
-  "homepage": "https://github.com/TrymoretimeH/nodejs_blog#readme",
+  "homepage": "https://github.com/TrymoretimeH/nodejs_blog",
   "lint-staged": {
     "src/**/*.{js,json,scss}": "prettier --single-quote --trailing-comma all --tab-width 4 --write"
   },
@@ -36,6 +36,7 @@
     "mongoose-slug-updater": "^3.3.0"
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "husky": "^4.2.5",
     "lint-staged": "^13.2.0",
     "morgan": "^1.10.0",
